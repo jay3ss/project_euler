@@ -6,7 +6,7 @@ From the website itself,
 
 >The motivation for starting Project Euler, and its continuation, is to provide a platform for the inquiring mind to delve into unfamiliar areas and learn new concepts in a fun and recreational context.
 
-So, basicall I'm just adding my own "solutions" to these problems. Watch out for the solution for number three, "primeFactorization.js" as it freezes my browser.
+So, basically I'm just adding my own "solutions" to these problems. Watch out for the solution for number three, "primeFactorization.js" as it freezes my browser.
 
 ##Future Plans?
 I'll be adding solutions to these in other languages (probably in PHP, maybe Ruby) aside from JavaScript. I don't plan on contributing often so we'll see how often I come back :)
